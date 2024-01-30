@@ -1,3 +1,5 @@
 /target
 bedrock_server
 bedrock_server_symbols.debug
+bedrock_server.exe
+bedrock_server.pdb
